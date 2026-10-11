@@ -159,5 +159,6 @@ Each case runs iterative, recursive and linear search and checks that all three 
 
 | Name | Role |
 |---|---|
-| _Your name_ | _e.g., Implementation_ |
-| _Teammate name_ | _e.g., Testing & documentation_ |
+| Ansari Wajid Husain | _e.g., Implementation_ |
+| Sharvan Mishra | _e.g., Testing & documentation_ |
+| Pranshu Wadekar | _e.g., Testing & documentation_ |
