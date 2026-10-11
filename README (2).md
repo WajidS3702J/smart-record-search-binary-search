@@ -159,6 +159,6 @@ Each case runs iterative, recursive and linear search and checks that all three 
 
 | Name | Role |
 |---|---|
-| Ansari Wajid Husain | _e.g., Implementation_ |
-| Sharvan Mishra | _e.g., Testing & documentation_ |
-| Pranshu Wadekar | _e.g., Testing & documentation_ |
+| Ansari Wajid Hussain | Implementation + Debugging|
+| Sharvan Mishra | Testing + Research |
+| Pranshu Wadekar | Documentation |
